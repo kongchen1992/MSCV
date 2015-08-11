@@ -12,11 +12,11 @@ Carnegie Mellon University Computing Services holds a campus agreement which cov
 
 For more information about license, applications, toolboxes and blocksets available, MATLAB, SIMULINK and Toolboxes Licensing information, please visit [Computing Services](http://www.cmu.edu/computing/software/all/matlab/).
 
-###Download
+####Download
 
 No matter which system OS you use, you can find appropriate MATLAB to your operating system at [Computing Services website](http://www.cmu.edu/computing/software/all/matlab/download.html).
 
-###Installation
+####Installation
 
 After downloading the MATLAB, you need to install it on your system.
 The same, you can find the instructions of installation from [Computing Services website](http://www.cmu.edu/computing/software/all/matlab/installation.html).
@@ -30,13 +30,13 @@ OpenCV was built to provide a common infrastructure for computer vision applicat
 
 The current version of OpenCV is  3.0.  But since many applications and algorithms are developed on OpenCV 2.4.  You might need to install both of them depending on what you are focusing on.
 
-###Download
+####Download
 
 You can find different version of OpenCV including 2.4 and 3.0 for various operating systems including Windows, Linux/Mac, Android and iOS, on [OpenCV's website](http://opencv.org/downloads.html).
 
 Please download the appropriate files to your own operating system.
 
-###Installation
+####Installation
 
 Due to different version of operating systems and different environment of your own operating system, it is highly possible that you would trapped into installing errors.
 Hence, I put several tutorials here to instruct your own installation.
@@ -47,20 +47,20 @@ Please make sure that
 * Don't be worried if you have troubles.
 * Google your troubles!
 
-####In Linux
+#####In Linux
 
 * [The official OpenCV Installation Tutorial](http://docs.opencv.org/doc/tutorials/introduction/linux_install/linux_install.html#linux-installation)
 
 * [The OpenCV Installation Tutorial from Ubuntu Community](https://help.ubuntu.com/community/OpenCV)
 
-####In Windows
+#####In Windows
 
 * [The official OpenCV Installation Tutorial](http://docs.opencv.org/doc/tutorials/introduction/windows_install/windows_install.html#windows-installation)
 
 * If you want to setup OpenCV with Visual Studio in Windows 7 (64-bit), visit [here](https://karanjthakkar.wordpress.com/2012/11/21/usin-opencv-2-4-2-with-visual-studio-2012-on-windows-7-64-bit/)
 or [here](http://opencv-srf.blogspot.de/2013/05/installing-configuring-opencv-with-vs.html).
 
-####In Mac
+#####In Mac
 
 Mac OSX is an Unix based operating system, and so the installation steps are similar to the Linux.
 There is no instruction for Mac on the official OpenCV website.
@@ -89,21 +89,21 @@ Python, as an object-oriented programming language, is also popular in computer 
 It has efficient high-level data structures, elegant syntax, dynamic typing, and free extensive standard library.
 Besides MATLAB, you might want to have a try with Python, or you have to use Python for understanding others' project.
 
-###Download
+####Download
 
 Before you start, please check that you don't already have Python installed by entering `python` in a command line window.
 If you see a response from a Python interpreter it will include a version number in its initial display.
 If you need to install Python, please see [Python Download pages](https://www.python.org/downloads/) for the most up to date version.
 If you are still not clear which file you should download, check the [BeginnersGuide/Download](https://wiki.python.org/moin/BeginnersGuide/Download).
 
-###Installation
+####Installation
 
 Installing Python is pretty easy with several command lines.
 After downloading the file, find `README` and open it.
 You will get an over-complete instruction about how to install Python on your computer.
 Please read them in detail, follow the instruction step by step, and then you are done.
 
-###Python Libraries
+####Python Libraries
 
 Python is powerful due to the various powerful libraries.
 You may not be familiar with python libraries, but no need to be panic!
@@ -111,7 +111,7 @@ Please read this guide [My top 9 Favorite Python Libraries for Building Image Se
 
 If you are not satisfied with the so-called 9 favorite Libraries (NumPy, SciPy, *etc*.) Please see [Installing Python Modules](https://docs.python.org/3/installing/index.html) for Python 3.x or [Installing Python Modules](https://docs.python.org/2/install/index.html) for Python 2.x.
 
-###Quick Start
+####Quick Start
 
 Assuming you have never touched Python before, let us learn Python from "Hello world!"
 Please see [Learn Python: Tutorials](https://pythonspot.com) for detailed instructions.
