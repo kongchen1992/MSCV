@@ -98,7 +98,7 @@ If you are still not clear which file you should download, check the [BeginnersG
 
 ####Installation
 
-Installing Python on Windows/Mac is pretty easy with doulbe click the file you downloaded, and then it's done.
+Installing Python on Windows/Mac is pretty easy with doulbe clicking the file you downloaded, and then it's done.
 
 Installing Python on Linux is also not complicated with several command lines.
 After downloading the file, find `README` and open it.
