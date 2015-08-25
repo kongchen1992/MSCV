@@ -117,3 +117,10 @@ If you are not satisfied with the so-called 9 favorite Libraries (NumPy, SciPy, 
 
 Assuming you have never touched Python before, let us learn Python from "Hello world!"
 Please see [Learn Python: Tutorials](https://pythonspot.com) for detailed instructions.
+
+###Questions?
+Contact us:
+
+Simon Lucey: slucey@cs.cmu.edu
+
+Chen Kong: chenk@cs.cmu.edu
